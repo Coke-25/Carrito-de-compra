@@ -1,0 +1,11 @@
+body{
+    background-color: #7D3C98  ;
+}
+form{
+    margin-top: 25vh;
+    margin-left: 17vw;
+    padding: 70px;
+    border-radius: 20px;
+    background-color: white;
+    width:40vw;
+}

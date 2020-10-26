@@ -1,0 +1,16 @@
+body{
+    background-color: #34495E;
+}
+
+.caja{
+    background-color: white;
+    width: 60vw;
+    margin-top: 20vh;
+    padding: 2vw;
+    border-radius: 20px;
+    margin-left: 13vw;
+}
+
+h1{
+    text-align: center;
+}
